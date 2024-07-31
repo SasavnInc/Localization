@@ -1,0 +1,172 @@
+AboutUs:
+  Contacts: Contacts
+  Language: Language
+  Privacy Policy: Privacy Policy
+  Return policy: Return policy
+  Terms of Use: Terms of Use
+  Agreement: Agreement
+
+
+Header:
+  Main: Main
+  Download: Download
+  Products: Products
+  Changelogs: Changelogs
+  Profile: Profile
+  Documentation: API Docs
+  Security: Security
+  Pages: Pages 
+  Sign in: Sign in
+
+Products:
+  Price: Price
+  Price 12$: 12$
+  Back: Back
+  Information: Information
+  Status: Status
+  Working/Updating: Working/Updating
+  Last update date: Last update date
+  Cheat version: Cheat version
+  Available clients: Available clients
+  Screenshots: Screenshots
+  Forever: Forever
+  Subscription validity period: Subscription validity period
+  Buy: Buy
+  Log in: Log in
+
+Login:
+  Sign up: Sign up
+  Sign in: Sign in
+  Login or email: Login or email
+  Password: Password
+  Forgot password?: Forgot password?
+  This field is required: This field is required
+  Logout: Logout
+  Profile: Profile
+  User with this login already exist: User with this login already exist
+  Or login via: Or login via
+  One phrase:
+    Dont have a account?: Don't have an account?
+    Create it: Create it
+  Launcher:
+    Login was successful, you can close the page: Login was successful, you can close the page
+
+
+Registration:
+  Login: Login
+  Email: Email
+  Password: Password
+  Confirm password: Confirm password
+  Sign up: Sign up
+  Log in: Log in
+  One phrase:
+    Already have an account?: Already have an account?
+    Sign in: Sign in
+  Check your email: Check your email
+  Or register via: Or register via
+  Registration completed successfully: Registration completed successfully
+  Check email disc: A link to complete Registration has been sent to your email.
+  Alternative reg path: You can also enter the code from the letter below
+  Error:
+    Invalid email: Invalid email
+    This field is required: This field is required
+    This field must match Password: This field must match Password
+    An unknown error has occurred, please try again later: An unknown error has occurred, please try again later
+    Login must be more than 4 characters and not exceed 30: Login must be more than 4 characters and not exceed 30
+    Fill in the captcha: Fill in the captcha
+    Login regex invalid: Login can only consist of Latin letters and numbers
+
+
+Confirm password page:
+  Confirm: Confirm
+  Success: Password reset successfully
+
+Forgot password:
+  Email: Enter your email
+  Reset password: Reset password
+  Remember password?: Remembered your password?
+  Back to login: Back to login
+  This field is required: This field is required
+  Invalid email: Invalid email address
+  Email password reset: A link to reset your password has been sent to your email
+
+Errors from API:
+  Incorrect login or password: Incorrect login or password
+  Unknown error: Unknown error
+  User already exist: User already exists
+  Key not exist: Key not exist
+  Key already activated: Key already activated
+
+Download:
+  Download desc: Download the launcher to access our software
+  Download small: Available for Windows 11/10/7 x64
+  Download: Download for Windows
+
+Redirect:
+  Redirect after: Redirect after %{seconds} seconds
+
+Profile:
+  Games: Games
+  Account: Account
+  Main: Main
+  Profile: Profile
+  Account managment: Account managment
+  Main information: Main information
+  Service already registered: Service already registered
+  Login: Login
+  Activation: Activation
+  Other: Other
+  Activate: Activate
+  Activate description: Here you can activate the key
+  Download the injector: Download the injector
+  Download files for the cheat: Download files for the cheat
+  Download: Download
+  Key activated successfully: Key activated successfully 😀
+  An unknown error has occurred: An unknown error has occurred 🤬
+  Key: Key
+  Purchased products: Purchased products
+  Cheat: Cheat
+  Subscription term: Subscription term
+  Status: Status
+  Date of purchase: Date of purchase
+  Forever: Forever
+  No subscriptions:
+      Joke part: Here could be your subscriptions.
+      Buy: Buy 😎
+  Subscriptions: Subscriptions
+  Non accessed sub: To access, purchase the subscription
+  Upload image:
+    Error: image size exceeds 2 MB
+    Success: Uploaded successfully
+    DragAndDrop: Drag 'n' drop some files here, or click to select files
+    Upload: Upload
+  Account Managment:
+    Information: Information
+    Last activity: Last activity
+    Change your password: Change password
+    Change: Change
+    Log out of your account: Log out of your account
+    Logout: Logout
+    Current: Current
+    Account: Account
+    Sessions: Sessions
+    Terminate: Terminate
+
+Agreement:
+  ReturnPolicy:
+    1 article: Return can only be made if the subscription has never been used for technical reasons within the first 3 days of purchase.
+    2 article: The subscription can only be exchanged for a subscription of equal or lesser value, only if you made a mistake during the purchase and have not yet used the product.
+    3 article: Subscriptions cannot be upgraded/downgraded to other subscriptions of any value.
+    4 article: We strive to conduct our business in accordance with these principles to ensure stable cooperation and the overall operation of the project.
+    last update: Last updated on July 5, 2023
+  PrivacyPolicy:
+    1 article: Your privacy is very important to us. Accordingly, we have developed this policy so that you can understand how we collect, use, communicate, disclose, and use personal information. Below is an overview of our privacy policy.
+    2 article: Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+    3 article: We will collect and use personal information solely for the purposes specified by us, with the consent of the individual concerned or as required by law.
+    4 article: We will only retain personal information as long as necessary for the fulfillment of those purposes.
+    5 article: We will collect personal information by lawful and fair means, where appropriate, with the knowledge or consent of the individual concerned.
+    6 article: Personal data should be relevant to the purposes for which it will be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+    7 article: We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use, or modification.
+    8 article: We will make readily available to customers information about our policies and practices relating to the management of personal information.
+    9 article: We strive to conduct our business in accordance with these principles to ensure the protection and maintenance of the confidentiality of personal information.
+    last update: Last updated on July 5, 2023

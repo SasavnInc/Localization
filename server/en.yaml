@@ -1,0 +1,11 @@
+Email:
+  Confirm registration:
+    Here: here
+    Complete registration: Complete registration
+    Please confirm your account: Please confirm your account
+    Short code: "Code for registration: %{code}"
+  Recovery:
+    Recovery password: Recovery password
+    Reset password: Reset your password using this
+    Here: link
+    Short code: "Code for reset password: %{code}"

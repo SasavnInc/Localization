@@ -1,0 +1,11 @@
+Email:
+  Confirm registration:
+    Here: здесь
+    Complete registration: Завершение регистрации
+    Please confirm your account: Подтвердите свой аккаунт
+    Short code: "Код для регистрации: %{code}"
+  Recovery:
+    Recovery password: Восстановление пароля
+    Reset password: Сбросьте пароль
+    Here: по ссылке
+    Short code: "Код для сброса пароля: %{code}"
