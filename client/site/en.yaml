@@ -6,7 +6,6 @@ AboutUs:
   Terms of Use: Terms of Use
   Agreement: Agreement
 
-
 Header:
   Main: Main
   Download: Download
@@ -51,6 +50,8 @@ Login:
   Launcher:
     Login was successful, you can close the page: Login was successful, you can close the page
 
+Payment:
+  Success: Payment was successful
 
 Registration:
   Login: Login
@@ -75,7 +76,6 @@ Registration:
     Login must be more than 4 characters and not exceed 30: Login must be more than 4 characters and not exceed 30
     Fill in the captcha: Fill in the captcha
     Login regex invalid: Login can only consist of Latin letters and numbers
-
 
 Confirm password page:
   Confirm: Confirm
@@ -131,9 +131,12 @@ Profile:
   Date of purchase: Date of purchase
   Forever: Forever
   No subscriptions:
-      Joke part: Here could be your subscriptions.
-      Buy: Buy 😎
+    Joke part: Here could be your subscriptions.
+    Buy: Buy 😎
   Subscriptions: Subscriptions
+  Active: Active
+  Expired: Expired
+  Banned: Banned
   Non accessed sub: To access, purchase the subscription
   Upload image:
     Error: image size exceeds 2 MB
