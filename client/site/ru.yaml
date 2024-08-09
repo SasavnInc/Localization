@@ -17,9 +17,35 @@ Header:
   Pages: Страницы
   Sign in: Войти
 
+MainPage:
+  Your key to:
+    Self: Твой ключ к
+    Words:
+      Superiority: превосходству
+      Entertainment: развелечниям
+      Dominance: доминированию
+  in CS2 and GTA5: в CS 2 и GTA 5 Online
+  Our projects for games: Наши проекты для игр
+  More than 6 thousand: Более 6 тысяч
+  players chose our products: выбрали наши продукты – присоединяйся и ты
+  Tested by time: Проверено временем
+  our project has existed since 2017: наш проект существует с 2017 года, делая игры ярче и интереснее
+  Our advantages: Наши преимущества
+  Your style - your rules: Твой стиль - твои правила
+  We offer: Мы предлагаем широкий инструментарий в своих продуктах, чтобы ты мог настроить игровой процесс под себя.
+  Play without limits: Играй без ограничений
+  We constantly monitor: Мы постоянно следим за обновлениями игр, оперативно выпуская новые версии своих продуктов.
+  We are always ready to help: Мы всегда готовы помочь
+  If you have any questions: Если у тебя возникли вопросы или сложности – наша служба поддержки всегда на связи. Мы ценим каждого пользователя и стремимся обеспечить максимальный комфорт в игре.
+  You are ready?: Ты готов?
+  Join us: Присоединяйся к нам
+  Buttons:
+    Download: Скачать
+    Products: Продукты
+
 Products:
   Price: Стоимость
-  Price 12$: 700р
+  Price from: from %{price} р
   Back: Вернуться назад
   Information: Информация
   Status: Статус

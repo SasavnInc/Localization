@@ -17,9 +17,36 @@ Header:
   Pages: Pages 
   Sign in: Sign in
 
+MainPage:
+  Your key to:
+    Self: Your key to
+    Words:
+      Superiority: superiority
+      Entertainment: entertainment
+      Dominance: dominance
+  in CS2 and GTA5: in CS 2 and GTA 5 Online
+  Our projects for games: Our projects for Games
+  More than 6 thousand: More than 6 thousand
+  players chose our products: players chose our products - join us too
+  Tested by time: Tested by time
+  our project has existed since 2017: our project has existed since 2017, making games brighter and more interesting
+  Our advantages: Our advantages
+  Your style - your rules: Your style - your rules
+  We offer: We offer a wide range of tools in our products, so you can customize the gameplay for yourself.
+  Play without limits: Play without limits
+  We constantly monitor: We constantly monitor game updates, promptly releasing new versions of our products.
+  We are always ready to help: We are always ready to help
+  If you have any questions: If you have any questions or difficulties, our support team is always in touch. We value every user and strive to provide maximum comfort in the game.
+  You are ready?: You are ready?
+  Join us: Join us
+  Buttons:
+    Download: Download
+    Products: Products
+
+
 Products:
   Price: Price
-  Price 12$: 12$
+  Price from: from %{price} RUB
   Back: Back
   Information: Information
   Status: Status
