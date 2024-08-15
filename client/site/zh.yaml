@@ -1,0 +1,207 @@
+AboutUs:
+  Contacts: 联系我们
+  Language: 语言
+  Privacy Policy: 隐私协议
+  Return policy: 退款协议
+  Terms of Use: 使用协议
+  Agreement: 政府协议
+
+Header:
+  Main: 主页
+  Download: 下载
+  Products: 产品
+  Changelogs: 更新日志
+  Profile: 个人主页
+  Documentation: API文档
+  Security: 账户隐私
+  Pages: 页面 
+  Sign in: 登录
+
+MainPage:
+  Your key to:
+    Self: 你可以获得
+    Words:
+      Superiority: 优势
+      Entertainment: 快乐
+      Dominance: 强大
+  in CS2 and GTA5: 在CS2和GTA Online中
+  Our projects for games: 我们的作弊项目
+  More than 6 thousand: 有超过6000名
+  players chose our products: 玩家选择了我们的作弊 - 加入我们
+  Tested by time: 经得起时间的考验
+  our project has existed since 2017: 我们的作弊自2017年以来一直存在，我们致力于让游戏变得更简单、更有趣
+  Our advantages: 我们的优势
+  Your style - your rules: 你的风格 - 你的规则
+  We offer: 我们在产品中提供了广泛的API，因此您可以为自己定制游戏玩法
+  Play without limits: 极速的更新
+  We constantly monitor: 我们持续监控游戏更新，及时发布我们作弊的最新版本
+  We are always ready to help: 我们随时准备提供服务
+  If you have any questions: 如果您有任何问题或困难，我们的支持团队将始终与您联系。我们重视每一位用户，并努力在游戏中提供最大的舒适度
+  You are ready?: 你准备好了吗？
+  Join us: 加入我们
+  Buttons:
+    Download: 下载
+    Products: 产品
+
+
+Products:
+  Price: 价格
+  Price from: '%{price} RUB'
+  Back: 返回
+  Information: 信息
+  Status: 状态
+  Working/Updating: 正常/正在更新
+  Last update date: 上一次更新日期
+  Cheat version: 作弊版本
+  Available clients: 可用平台
+  Screenshots: 截图
+  Forever: 永久
+  Cs2:
+    One Month: 一个月
+    Three Month: 三个月
+    One Year: 一年
+    Lock: 请选择您需要的订阅时长
+  Subscription validity period: 订阅有效期
+  Buy: 付款
+  Log in: 登录
+
+Login:
+  Sign up: 注册
+  Sign in: 登录
+  Login or email: 登录或发送电子邮件
+  Password: 密码
+  Forgot password?: 忘记了密码?
+  This field is required: 必须填写这里
+  Logout: 退出登录
+  Profile: 个人主页
+  User with this login already exist: 已存在同名用户
+  Or login via: 或通过以下方式登录
+  One phrase:
+    Dont have a account?: 没有帐户？
+    Create it: 去注册
+  Launcher:
+    Login was successful, you can close the page: 登录成功，您可以关闭此页面
+
+Payment:
+  Success: 付款成功
+
+Registration:
+  Login: 登录
+  Email: 邮箱
+  Password: 密码
+  Confirm password: 确认密码
+  Sign up: 注册
+  Log in: 登录
+  One phrase:
+    Already have an account?: 已经拥有账户?
+    Sign in: 登录
+  Check your email: 检查您的电子邮件
+  Or register via: 或通过以下方式注册
+  Registration completed successfully: 注册成功
+  Check email disc: 请点击您邮箱中的链接以完成注册
+  Alternative reg path: 您也可以输入下面字母中的代码
+  Error:
+    Invalid email: 无效的电子邮件
+    This field is required: 此字段为必填项
+    This field must match Password: 此字段必须与密码匹配
+    An unknown error has occurred, please try again later: 发生未知错误，请稍后再试
+    Login must be more than 4 characters and not exceed 30: 登录名必须超过4个字符且不超过30个字符
+    Fill in the captcha: 填写验证码
+    Login regex invalid: 用户名只能由字母和数字组成
+
+Confirm password page:
+  Confirm: 确认
+  Success: 密码重置成功
+
+Forgot password:
+  Email: 输入您的电子邮件
+  Reset password: 重置密码
+  Remember password?: 忘记密码了吗？
+  Back to login: 返回去登录
+  This field is required: 此字段为必填项
+  Invalid email: 无效的电子邮件地址
+  Email password reset: 重置密码的链接已发送到您的电子邮件中
+
+Errors from API:
+  Incorrect login or password: 用户名或密码不正确
+  Unknown error: 未知错误
+  User already exist: 用户已存在
+  Key not exist: 密钥不存在
+  Key already activated: 密钥已激活
+
+Download:
+  Download desc: 下载启动器以访问我们的作弊
+  Download small: 适用于 Windows 11/10/7 64位系统
+  Download: 下载 Windows 版
+
+Redirect:
+  Redirect after: 在 %{seconds} 秒后重定向
+
+Profile:
+  Games: 游戏
+  Account: 账户
+  Main: 主页
+  Profile: 个人主页
+  Account managment: 账户管理
+  Main information: 主要信息
+  Service already registered: 您已拥有该订阅
+  Login: 登录
+  Activation: 激活
+  Other: 其他
+  Activate: 激活
+  Activate description: 在这里，您可以激活密钥
+  Download the injector: 下载注入器
+  Download files for the cheat: 下载作弊所需文件
+  Download: 下载
+  Key activated successfully: 密钥已成功激活 :)
+  An unknown error has occurred: 发生未知错误 :(
+  Key: 密钥
+  Purchased products: 已购买的产品
+  Cheat: 作弊
+  Subscription term: 订阅到期时间
+  Status: 状态
+  Date of purchase: 订阅日期
+  Forever: 永久
+  No subscriptions:
+    Joke part: 这里可能是您的订阅。
+    Buy: 买😎
+  Subscriptions: 订阅
+  Active: 激活
+  Expired: 过期
+  Banned: 封禁
+  Non accessed sub: 如果您需要继续使用，请重新订阅该作弊
+  Upload image:
+    Error: 图像大小不能超过 2 MB
+    Success: 上传成功
+    DragAndDrop: 将文件拖放到此处，或单击以选择文件
+    Upload: 上传
+  Account Managment:
+    Information: 信息
+    Last activity: Last activity
+    Change your password: 修改密码
+    Change: 修改
+    Log out of your account: 退出您的帐户
+    Logout: 退出登录
+    Current: 当前设备
+    Account: 账户
+    Sessions: 登录日志
+    Terminate: 强制停止登录
+
+Agreement:
+  ReturnPolicy:
+    1 article: 只有在购买后的前3天内因技术原因从未使用过订阅时，才能进行退货
+    2 article: 只有当您在购买过程中犯了错误并且尚未使用该产品时，才能将订阅兑换为同等或更低价值的订阅
+    3 article: 订阅不能升级或降级到任何价值的其他订阅
+    4 article: 我们努力按照这些原则开展业务，以确保稳定的合作和项目的整体运营
+    last update: 最后更新于 2023 年 7 月 5 日
+  PrivacyPolicy:
+    1 article: 您的隐私对我们非常重要。因此，我们制定了本政策，以便您了解我们如何收集、使用、传达、披露和使用个人信息。以下是我们隐私政策的概述
+    2 article: 在收集个人信息之前，我们将确定收集信息的目的
+    3 article: 我们将仅在征得相关个人同意或法律要求的情况下，仅出于我们指定的目的收集和使用个人信息
+    4 article: 我们只会在实现这些目的所需的时间内保留个人信息
+    5 article: 我们将在适当的情况下，在相关个人知情或同意的情况下，通过合法和公平的方式收集个人信息
+    6 article: 个人数据应与其使用目的相关，并且在这些目的所必需的范围内，应准确、完整和最新
+    7 article: 我们将通过合理的安全保障措施来保护个人信息，防止丢失或被盗，以及未经授权的访问、披露、复制、使用或修改
+    8 article: 我们将随时向客户提供有关我们与个人信息管理相关的政策和做法的信息
+    9 article: 我们努力按照这些原则开展业务，以确保保护和维护个人信息的机密性
+    last update: 最后更新于 2023 年 7 月 5 日
