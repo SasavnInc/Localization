@@ -1,0 +1,11 @@
+Email:
+  Confirm registration:
+    Here: 这里
+    Complete registration: 完成注册
+    Please confirm your account: 请确认您的账户
+    Short code: "注册代码：%{code}"
+  Recovery:
+    Recovery password: 重置密码
+    Reset password: 使用此重置密码
+    Here: 链接
+    Short code: "重置密码的代码：%{code}"
