@@ -22,12 +22,12 @@ MainPage:
     Self: Твой ключ к
     Words:
       Superiority: превосходству
-      Entertainment: развелечниям
+      Entertainment: развелечениям
       Dominance: доминированию
   in CS2 and GTA5: в CS 2 и GTA 5 Online
   Our projects for games: Наши проекты для игр
   More than 6 thousand: Более 6 тысяч
-  players chose our products: выбрали наши продукты – присоединяйся и ты
+  players chose our products: игроков выбрали наши продукты – присоединяйся и ты
   Tested by time: Проверено временем
   our project has existed since 2017: наш проект существует с 2017 года, делая игры ярче и интереснее
   Our advantages: Наши преимущества
@@ -45,7 +45,7 @@ MainPage:
 
 Products:
   Price: Стоимость
-  Price from: from %{price} р
+  Price from: от %{price} р
   Back: Вернуться назад
   Information: Информация
   Status: Статус
@@ -55,6 +55,11 @@ Products:
   Available clients: Доступные клиенты
   Screenshots: Скриншоты
   Forever: Навсегда
+  Cs2:
+    One Month: На месяц
+    Three Month: На 3 месяца
+    One Year: На год
+    Lock: Чтобы продолжить, выберите срок действия подписки
   Subscription validity period: Срок действия подписки
   Buy: Приобрести
   Log in: Войти
