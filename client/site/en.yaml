@@ -173,7 +173,7 @@ Profile:
   Upload image:
     Error: image size exceeds 2 MB
     Success: Uploaded successfully
-    DragAndDrop: Drag 'n' drop some files here, or click to select files
+    DragAndDrop: Drag 'n' drop picture here, or click to select files
     Upload: Upload
   Account Managment:
     Information: Information

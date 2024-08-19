@@ -173,7 +173,7 @@ Profile:
   Upload image:
     Error: 图像大小不能超过 2 MB
     Success: 上传成功
-    DragAndDrop: 将文件拖放到此处，或单击以选择文件
+    DragAndDrop: 将图像拖放到此处，或单击选择文件
     Upload: 上传
   Account Managment:
     Information: 信息
