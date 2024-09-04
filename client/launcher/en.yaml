@@ -1,0 +1,56 @@
+About:
+  Self: About
+  Version: Version
+  Site: Site
+
+Aside:
+  Cheats: Cheats
+  Changelogs: Changelogs
+  Notifications: Notifications
+  Settings: Settings
+  Workshop: Workshop
+  Log in: Log in
+
+Settings:
+  Personalization: 
+    Self: Personalization
+    Background material: Background material
+    Background opacity: Background opacity
+    Use system color: Use system color
+  Settings of launcher: 
+    Self: Settings of launcher
+    Language: Language
+    Start with Windows: 
+      Self: Start with Windows
+      Description: The launcher is added to autorun
+    Start minimised:
+      Self: Start minimised
+      Description: The launcher, when the system starts, turns on in the background, away from your eyes
+    Close button:
+      Self: Close button
+      Description: When you click on the close button, the launcher is minimized to tray
+  Other:
+    Self: Other
+    Path to launcher files: Path to launcher files
+    Open: Open in Explorer
+    Copied: Copied!
+    Recovery files: Recovery files
+    Recovery: Recovery
+    Recovered: Recovered
+    Downloaded: Downloaded %{progress} MB from %{total} MB
+
+
+Cheats:
+  Information: Information
+  Client version: Client version
+  Errors:
+    Not found: Not found
+  Inject Stages:
+    Check injector hashsum: Integrity injector check 
+    Hashsum mismatched: Hashsum mismatched, download...
+  Inject: Inject
+  Installing vc_redist: Installing vc_redist...
+  Does the launcher need to install vc_redist?: Does the launcher need to install vc_redist?
+  To launch, log in: To launch, log in
+  You must have a subscription to run: You must have a subscription to run
+

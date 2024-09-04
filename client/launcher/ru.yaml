@@ -1,0 +1,54 @@
+About:
+  Self: О программе
+  Version: Версия
+  Site: Сайт
+
+Aside:
+  Cheats: Читы
+  Changelogs: Ченжлоги
+  Notifications: Уведомления
+  Settings: Настройки
+  Workshop: Мастерская
+  Log in: Войти
+
+Settings:
+  Personalization: 
+    Self: Персонализация
+    Background material: Материал фона
+    Background opacity: Прозрачность фона
+    Use system color: Использовать системный цвет
+  Settings of launcher: 
+    Self: Настройки лаунчера
+    Language: Язык
+    Start with Windows: 
+      Self: Запуск вместе с Windows
+      Description: Лаунчер добавляется в автозапуск
+    Start minimised:
+      Self: Запуск фоном
+      Description: Лаунчер, при старте системы, запускается фоном, подальше от ваших глаз
+    Close button:
+      Self: Кнопка "Закрыть"
+      Description: При нажатии на кнопку закрыть, лаунчер сворачивается в трей
+  Other:
+    Self: Прочее
+    Path to launcher files: Путь к файлам лаунчера
+    Open: Открыть в проводнике
+    Copied: Скопировано!
+    Recovery files: Восстановить файлы
+    Recovery: Восстановить
+    Recovered: Восстановлено
+    Downloaded: Загружено %{progress} МБ из %{total} МБ
+
+Cheats:
+  Information: Информация
+  Client version: Версия клиента
+  Errors:
+    Not found: Не найдено
+  Inject Stages:
+    Check injector hashsum: Проверка целостности инжектора
+    Hashsum mismatched: Хеш-суммы не совпадают, скачиваем...
+  Inject: Запустить
+  Installing vc_redist: Установка vc_redist...
+  Does the launcher need to install vc_redist?: Нужно ли лаунчеру устанавливать vc_redist?
+  To launch, log in: Для запуска авторизуйтесь
+  You must have a subscription to run: Нужно иметь подписку, чтобы запустить

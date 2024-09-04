@@ -1,0 +1,26 @@
+About:
+  Self: About
+  Version: Version
+
+Aside:
+  Cheats: Cheats
+  Changelogs: Changelogs
+  Notifications: Notifications
+  Settings: Settings
+  Workshop: Workshop
+
+Settings:
+  Personalization: 
+    Self: Personalization
+    Background material: Background material
+    Background opacity: Background opacity
+  Settings of launcher: 
+    Self: Settings of launcher
+    Language: Language
+    Start with Windows: Start with Windows
+    Start minimised:
+      Self: Start minimised
+      Description: The launcher turns on in the background, away from your eyes
+    Close button:
+      Self: Close button
+      Description: When you click on the close button, the launcher is minimized to tray
