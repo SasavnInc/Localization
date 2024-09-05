@@ -38,6 +38,10 @@ Settings:
     Recovery: Восстановить
     Recovered: Восстановлено
     Downloaded: Загружено %{progress} МБ из %{total} МБ
+    Enable compact-mode: 
+      Self: Включить компактный режим
+      Description: Оставляет только самое необходимое
+      Enable: Включить
 
 Cheats:
   Information: Информация

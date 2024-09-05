@@ -38,7 +38,10 @@ Settings:
     Recovery: Recovery
     Recovered: Recovered
     Downloaded: Downloaded %{progress} MB from %{total} MB
-
+    Enable compact-mode: 
+      Self: Enable compact-mode
+      Description: Leaves only the essentials
+      Enable: Enable
 
 Cheats:
   Information: Information

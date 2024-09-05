@@ -1,26 +1,59 @@
 About:
-  Self: About
-  Version: Version
+  Self: 关于
+  Version: 版本
+  Site: 官网
 
 Aside:
-  Cheats: Cheats
-  Changelogs: Changelogs
-  Notifications: Notifications
-  Settings: Settings
-  Workshop: Workshop
+  Cheats: 作弊
+  Changelogs: 更新日志
+  Notifications: 通知
+  Settings: 设置
+  Workshop: 市场
+  Log in: 登录
 
 Settings:
   Personalization: 
-    Self: Personalization
-    Background material: Background material
-    Background opacity: Background opacity
+    Self: 个性化
+    Background material: 背景风格
+    Background opacity: 背景不透明度
+    Use system color: 使用系统颜色
   Settings of launcher: 
-    Self: Settings of launcher
-    Language: Language
-    Start with Windows: Start with Windows
+    Self: 启动器设置
+    Language: 语言
+    Start with Windows: 
+      Self: 开机自启动
+      Description: 当您的电脑开机时启动器会自动启动
     Start minimised:
-      Self: Start minimised
-      Description: The launcher turns on in the background, away from your eyes
+      Self: 开机最小化
+      Description: 当开机自启动开启时，启动器将自动隐藏在后台
     Close button:
-      Self: Close button
-      Description: When you click on the close button, the launcher is minimized to tray
+      Self: 最小化启动器
+      Description: 当您点击关闭按键时启动器会自动隐藏在后台而不是直接关闭
+  Other:
+    Self: 其他
+    Path to launcher files: 启动器文件路径
+    Open: 打开文件夹
+    Copied: 已复制
+    Recovery files: 恢复文件
+    Recovery: 恢复
+    Recovered: 成功恢复
+    Downloaded: 已下载 %{progress} MB / %{total} MB
+    Enable compact-mode: 
+      Self: 开启小窗模式
+      Description: 只会保留基础功能
+      Enable: 开启
+
+Cheats:
+  Information: 信息
+  Client version: 客户端版本
+  Errors:
+    Not found: 未找到
+  Inject Stages:
+    Check injector hashsum: 注入器检测 
+    Hashsum mismatched: 验证值不匹配，正在重新下载...
+  Inject: 注入
+  Installing vc_redist: 安装vc_redist中...
+  Does the launcher need to install vc_redist?: 启动器需要去安装install vc_redist吗?
+  To launch, log in: 启动前请先登录
+  You must have a subscription to run: 你必须拥有订阅才能使用
+
