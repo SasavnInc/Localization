@@ -2,7 +2,6 @@ About:
   Self: О программе
   Version: Версия
   Site: Сайт
-
 Aside:
   Cheats: Читы
   Changelogs: Ченжлоги
@@ -10,17 +9,30 @@ Aside:
   Settings: Настройки
   Workshop: Мастерская
   Log in: Войти
+  Update: Обновить
 
 Settings:
-  Personalization: 
+  Personalization:
     Self: Персонализация
-    Background material: Материал фона
+    Window material: Материал окна
+    Window opacity: Прозрачность окна
     Background opacity: Прозрачность фона
+    Border opacity: Прозрачность рамок
+    Background color: Цвет фона
     Use system color: Использовать системный цвет
-  Settings of launcher: 
+    Transparent side panel: Прозрачная боковая панель
+    Select: Выбрать
+    Neutral palette: Нейтральная палитра
+    Color palette: Цветная палитра
+    Theme:
+      Self: Тема
+      Dark: Тёмная
+      Light: Светлая
+      System: Системная
+  Settings of launcher:
     Self: Настройки лаунчера
     Language: Язык
-    Start with Windows: 
+    Start with Windows:
       Self: Запуск вместе с Windows
       Description: Лаунчер добавляется в автозапуск
     Start minimised:
@@ -38,10 +50,20 @@ Settings:
     Recovery: Восстановить
     Recovered: Восстановлено
     Downloaded: Загружено %{progress} МБ из %{total} МБ
-    Enable compact-mode: 
+    Enable compact-mode:
       Self: Включить компактный режим
       Description: Оставляет только самое необходимое
       Enable: Включить
+  Notifications:
+    Self: Уведомления
+    Enable: Включить
+    Launcher can: Лаунчер может отправлять системные уведомления
+    Launcher cant: Лаунчер не может отправлять системные уведомления
+
+Notifications:
+  Details: Подробности
+  New version available: Новая версия для %{game} - %{version} 🎉
+  Its empty here: Здесь пусто.
 
 Cheats:
   Information: Информация
@@ -56,3 +78,9 @@ Cheats:
   Does the launcher need to install vc_redist?: Нужно ли лаунчеру устанавливать vc_redist?
   To launch, log in: Для запуска авторизуйтесь
   You must have a subscription to run: Нужно иметь подписку, чтобы запустить
+  Changelogs: Ченжлоги
+  Configs: Конфиги
+  Subscription period: Срок подписки
+  Until: до %{date}
+  Lifetime: Пожизненно
+  Website page: Страница на сайте

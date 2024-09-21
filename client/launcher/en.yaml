@@ -10,13 +10,25 @@ Aside:
   Settings: Settings
   Workshop: Workshop
   Log in: Log in
-
+  Update: Update
 Settings:
   Personalization: 
     Self: Personalization
-    Background material: Background material
     Background opacity: Background opacity
+    Border opacity: Border opacity
+    Window material: Window material
+    Window opacity: Window opacity
+    Background color: Background color
     Use system color: Use system color
+    Transparent side panel: Transparent side panel
+    Select: Select
+    Neutral palette: Neutral palette
+    Color palette: color palette
+    Theme:
+      Self: Theme
+      Dark: Dark
+      Light: Light
+      System: System
   Settings of launcher: 
     Self: Settings of launcher
     Language: Language
@@ -42,6 +54,16 @@ Settings:
       Self: Enable compact-mode
       Description: Leaves only the essentials
       Enable: Enable
+  Notifications:
+    Self: Notifications
+    Enable: Enable
+    Launcher can: The launcher can send system notifications
+    Launcher cant: Launcher can't send system notifications
+
+Notifications:
+  Details: Details
+  New version available: New version for %{game} - %{version} 🎉
+  Its empty here: It's empty here.
 
 Cheats:
   Information: Information
@@ -56,4 +78,10 @@ Cheats:
   Does the launcher need to install vc_redist?: Does the launcher need to install vc_redist?
   To launch, log in: To launch, log in
   You must have a subscription to run: You must have a subscription to run
-
+  Changelogs: Changelogs
+  Configs: Configs
+  Subscription: Subscription
+  Subscription period: Subscription period
+  Until: until %{date}
+  Lifetime: Lifetime
+  Website page: Website page
