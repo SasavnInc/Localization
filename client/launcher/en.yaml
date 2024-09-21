@@ -59,7 +59,15 @@ Settings:
     Enable: Enable
     Launcher can: The launcher can send system notifications
     Launcher cant: Launcher can't send system notifications
-
+  Global shortcuts:
+    Self: Hotkeys
+    Enable: Enable
+    Description: Hotkeys will work even if the launcher is minimized
+    List: List of hotkeys
+    Show: Show
+    Bindings: Bindings
+    StartCs2: Launch the injector for Counter Strike 2
+    StartGta5: Launch the injector for GTA 5 Online
 Notifications:
   Details: Details
   New version available: New version for %{game} - %{version} 🎉
