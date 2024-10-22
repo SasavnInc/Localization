@@ -2,6 +2,14 @@ About:
   Self: О программе
   Version: Версия
   Site: Сайт
+
+Login:
+  Sign up: Регистрация
+  Sign in: Войти
+  Login or email: Логин или email
+  Password: Пароль
+  This field is required: Это поле обязательно
+
 Aside:
   Cheats: Читы
   Changelogs: Ченжлоги
@@ -41,6 +49,9 @@ Settings:
     Close button:
       Self: Кнопка "Закрыть"
       Description: При нажатии на кнопку закрыть, лаунчер сворачивается в трей
+    Alternative Login:
+      Self: Альтернативный вход
+      Description: Не использовать вход через браузер
   Other:
     Self: Прочее
     Path to launcher files: Путь к файлам лаунчера

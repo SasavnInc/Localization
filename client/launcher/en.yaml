@@ -3,6 +3,13 @@ About:
   Version: Version
   Site: Site
 
+Login:
+  Sign up: Sign up
+  Sign in: Sign in
+  Login or email: Login or email
+  Password: Password
+  This field is required: This field is required
+
 Aside:
   Cheats: Cheats
   Changelogs: Changelogs
@@ -41,6 +48,9 @@ Settings:
     Close button:
       Self: Close button
       Description: When you click on the close button, the launcher is minimized to tray
+    Alternative Login:
+      Self: Alternative Login
+      Description: Do not use browser login
   Other:
     Self: Other
     Path to launcher files: Path to launcher files
